@@ -1,6 +1,6 @@
 
+rootProject.name = 'SpringbootKafka'
+
 include ':SpringbootProducer'
 include ':SpringbootConsumer'
-
-rootProject.name = 'SpringbootKafka'
 
