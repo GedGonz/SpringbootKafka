@@ -1,5 +1,6 @@
 
 include ':SpringbootProducer'
+include ':SpringbootConsumer'
 
 rootProject.name = 'SpringbootKafka'
 
