@@ -1,14 +1,23 @@
-# SprinbootKafka
+# SpringbootKafka
 
-This is a project that uses Kafka in a basic way, to apply it from Spring Boot.
+Este es un proyecto que utiliza Kafka de manera básica, aplicado desde Spring Boot.
 
-## summary
+## Resumen
 
-This project was created with srping boot java 17 with gradle, it contains one module as producer and one as consumer
+Este proyecto fue creado con Spring Boot, Java 17 y Gradle. Contiene un módulo como productor y otro como consumidor.
 
-## Launch
+## Tecnologías Utilizadas
 
-To start the project, you need to have Docker and Docker-Compose installed on your machine and within the project root you can run the following command:
+- **Java 17**
+- **Spring Boot**
+- **Apache Kafka**
+- **Gradle**
+- **Docker**
+- **Docker-Compose**
+
+## Lanzamiento
+
+Para iniciar el proyecto, necesitas tener Docker y Docker-Compose instalados en tu máquina. Dentro de la raíz del proyecto, puedes ejecutar el siguiente comando:
+
 ```bash
-  docker-compose up
-```
+docker-compose up
